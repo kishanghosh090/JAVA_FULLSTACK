@@ -16,6 +16,9 @@ public class dataType {
         int num = Integer.parseInt(sc.nextLine());
         sc.nextLine(); // consume the next line ( Enter Key )
 
+        int marks = 100;
+        marks = -marks;
+
 
 
 
