@@ -19,6 +19,12 @@ public class dataType {
         int marks = 100;
         marks = -marks;
 
+         name = "kishan rana ghosh";
+         int age = 20;
+         String message = String.format("Hello %s! Your are %d year old",name,age);
+         System.out.println(message);
+
+
 
 
 
