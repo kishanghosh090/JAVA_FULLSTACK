@@ -24,5 +24,13 @@ public class Main {
         int myNum;
 //        System.out.println(myNum);
         System.out.println(Arrays.toString(arr1));
+        
+        int[] copyArr = Arrays.copyOf(arr1,arr1.length); //
+        // arrays.fill(arrname, fromindx, toindex, fillval)
+        // arras.fill(arrname, fillVal)
+
+        
+        
+        
     }
 }
