@@ -9,6 +9,11 @@ public class Mobile {
         this.price = myPrice;
         this.model = myModel;
     }
+    public Mobile(){
+        this.name = "Unknown";
+        this.price = 0;
+        this.model = "unknown";
+    }
     public void displayAll(){
         System.out.println(
                 " name of device is  " +
