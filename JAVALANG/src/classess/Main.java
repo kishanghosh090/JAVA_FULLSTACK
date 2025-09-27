@@ -10,8 +10,7 @@ public class Main {
         System.out.println(c1.color);
         Mobile m1 = new Mobile(200,"vivo" ,"T2 5G");
         m1.displayAll();
-        Dog d = new Dog("hus");
-        d.eat();
+
     }
 }
 
