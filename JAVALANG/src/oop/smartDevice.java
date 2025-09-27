@@ -13,4 +13,5 @@ public class smartDevice implements controllableDevice{
         isOn = false;
         System.out.println("smart device is turn off");
     }
+
 }
