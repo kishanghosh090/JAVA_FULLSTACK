@@ -3,12 +3,12 @@ package com.example.keyevents;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class KeyController {
+ class KeyController {
     @FXML
     private Label welcomeText;
 
     @FXML
-    protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+    protected void gotclicked() {
+        System.out.println("hello");
     }
 }
