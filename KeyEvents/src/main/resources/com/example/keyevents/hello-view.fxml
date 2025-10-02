@@ -8,7 +8,7 @@
 <VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
       fx:controller="com.example.keyevents.KeyController"
 >
-    <Button
-            onAction="#gotclicked"
-    >click me</Button>
+<!--    <Button-->
+<!--            onAction="#gotclicked"-->
+<!--    >click me</Button>-->
 </VBox>
